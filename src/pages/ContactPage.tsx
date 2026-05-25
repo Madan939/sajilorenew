@@ -45,7 +45,7 @@ export default function ContactPage() {
                 <h2 className="text-2xl font-bold text-gray-900 mb-6">Contact Information</h2>
                 <div className="space-y-6">
                   {[
-                    { icon: MapPin, label: 'Office Address', value: 'Putalisadak, Kathmandu\nNepal 44600' },
+                    { icon: MapPin, label: 'Office Address', value: 'Jhapa, Koshi\nNepal 44600' },
                     { icon: Phone, label: 'Phone', value: '+977-9800000000\n+977-01-4000000' },
                     { icon: Mail, label: 'Email', value: 'info@sajilorenew.com\nsupport@sajilorenew.com' },
                     { icon: Clock, label: 'Business Hours', value: 'Sun - Fri: 10:00 AM - 6:00 PM\nSaturday: 10:00 AM - 2:00 PM' },
